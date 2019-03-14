@@ -1,0 +1,4 @@
+-- listing properties --
+NJUST01=zhangsan
+NJUST02=LISI
+NJUST04=xiaohai
